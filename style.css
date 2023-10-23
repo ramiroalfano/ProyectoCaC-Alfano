@@ -168,6 +168,20 @@ footer{
     z-index: 1;
     cursor: pointer;
 }
+/*ticket html*/
+.formContainerTicket{
+        border: #fff;
+        width: 75%;
+        margin: 3rem auto;
+        padding: 1.5rem 1rem;
+        border-radius: 0.5rem;
+        box-shadow: 3px 3px 5px 0px rgb(0 0 0 / 29%);
+}
+.totalPago{
+    text-align: center;
+    background-color: rgb(162, 233, 233);
+    margin-bottom: 10px;
+}
 
 
 
