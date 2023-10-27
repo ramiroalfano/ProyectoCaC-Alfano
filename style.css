@@ -183,6 +183,20 @@ footer{
     margin-bottom: 10px;
 }
 
+.card-ticket{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 
+    minmax(200px, 1fr));
+    margin: 30px;
+    gap: 50px;
+}
+.cardstyle{
+    border-style: solid;
+    text-align: center;
+
+}
+
+
 
 
 
